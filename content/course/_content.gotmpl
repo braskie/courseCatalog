@@ -19,15 +19,16 @@
 {{ range after 1 $data }}
 
   {{ $number              := index . 0 }}
-  {{ $name                := index . 1 }}
-  {{ $description         := index . 2 }}
-  {{ $department          := index . 3 }}
-  {{ $repeatable          := index . 4 }}
-  {{ $credits             := index . 5 }}
-  {{ $req_gradelevel      := index . 6 }}
-  {{ $req_prereq          := index . 7 }}
-  {{ $length              := index . 8 }}
-  {{ $requestable         := index . 9 }}
+  {{ $child               := index . 1}}
+  {{ $name                := index . 2 }}
+  {{ $description         := index . 3 }}
+  {{ $department          := index . 4 }}
+  {{ $repeatable          := index . 5 }}
+  {{ $credits             := index . 6 }}
+  {{ $req_gradelevel      := index . 7 }}
+  {{ $req_prereq          := index . 8 }}
+  {{ $length              := index . 9 }}
+  {{ $requestable         := index . 10 }}
 
   {{ $content := dict 
     "mediaType" "text/markdown" 
@@ -36,6 +37,7 @@
 
   {{ $params := dict 
     "name" $name
+    "child" $child
     "number" $number 
     "department" $department
     "repeatable" $repeatable
@@ -53,7 +55,7 @@
       "content" $content
       "params" $params
       "path" $path
-      "title" $number
+      "title" $name
       "aliases" $alias
   }}
 
