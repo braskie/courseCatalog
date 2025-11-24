@@ -26,7 +26,8 @@
   {{ $credits             := index . 5 }}
   {{ $req_gradelevel      := index . 6 }}
   {{ $req_prereq          := index . 7 }}
-  {{ $length            := index . 8 }}
+  {{ $length              := index . 8 }}
+  {{ $requestable         := index . 9 }}
 
   {{ $content := dict 
     "mediaType" "text/markdown" 
@@ -42,6 +43,7 @@
     "req_gradelevel" $req_gradelevel
     "req_prereq" $req_prereq
     "length" $length
+    "requestable" $requestable
   }}
   
   {{ $path := print $department "/" $number }}}}

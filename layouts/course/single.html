@@ -18,17 +18,22 @@
                 {{ with .Params.credits}}<li>Credits: {{ . }}</li>{{ end }}
                 {{ with .Params.req_gradelevel}}<li>Grade Level(s): {{ . }}</li>{{ end }}
                 {{ with .Params.length}}<li>Duration: {{ . }}</li>{{ end }}
-                <li>Prerequisite(s): <a href="/{{ .Params.req_prereq}}">{{ .Params.req_prereq }}</a></li></li>
+                {{ if .Params.req_prereq }}
+                    <li>Prerequisite(s): <a href="/{{ .Params.req_prereq}}">{{ .Params.req_prereq }}</a></li>
+                    {{ else }}
+                    <li>This course has <b>no prerequisites</b></li>
+                {{ end }}
                 {{ with .Params.repeatable}}<li>*This course is repeatable.</li>{{ end }}
+                {{ with .Params.requestable}}<li>*This course <b>not</b> requestable by students and will be added to all student schedules automatically.</li>{{ end }}
             </ul>
 
             <h2>Description</h2>
             {{ .Content }}
 
-            <!-- DEBUG
+            <!-- DEBUG-->
             <pre>{{ debug.Dump .Params }}</pre>
             <pre>{{ debug.Dump . }}</pre>
-            -->
+            
         </div>
         {{ partial "components/last-updated.html" . }}
         {{ partial "components/pager.html" . }}

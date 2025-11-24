@@ -1,0 +1,100 @@
+- number: 1101RDG
+  name: Real World Reading
+  description: "Explore the practical applications of reading in everyday life, enhancing comprehension and critical thinking skills. This course will guide students through various real-world scenarios where reading comprehension is essential, such as interpreting instructions, analyzing news articles, and understanding contracts. By the end of the course, students will have developed a toolkit of strategies to approach diverse reading materials with confidence."
+  department: English
+  repeatable: Test
+- number: 1221ENG
+  name: English 10
+  description: "Develop your understanding of literature and composition through engaging texts and writing exercises. This course delves into classic and contemporary works, encouraging students to analyze themes, characters, and stylistic choices. Students will also refine their writing skills through structured assignments, fostering creativity and critical thinking."
+  department: English
+  repeatable: false
+- number: 1311ENG
+  name: Creative Writing I
+  description: "Unleash your creativity by learning the fundamentals of storytelling, poetry, and other forms of creative expression. This course provides a supportive environment for budding writers to experiment with different genres and styles. Through workshops and peer reviews, students will gain valuable feedback to hone their craft and develop their unique voice."
+  department: English
+  repeatable: false
+- number: 3005MTH
+  name: AP Statistics
+  description: "Gain a deep understanding of statistical concepts and their real-world applications, preparing for the AP exam. This course covers topics such as data collection, probability, and inferential statistics, emphasizing their relevance in various fields. Students will engage in hands-on projects to analyze data and draw meaningful conclusions."
+  department: Mathematics
+  repeatable: false
+- number: 3006MTH
+  name: AP Statistics
+  description: "Gain a deep understanding of statistical concepts and their real-world applications, preparing for the AP exam. This course covers topics such as data collection, probability, and inferential statistics, emphasizing their relevance in various fields. Students will engage in hands-on projects to analyze data and draw meaningful conclusions."
+  department: Mathematics
+  repeatable: false
+- number: 3013MTH
+  name: Statistics
+  description: "Learn the basics of data analysis, probability, and statistical reasoning for practical decision-making. This course introduces students to the foundational concepts of statistics, equipping them with the skills to interpret and present data effectively. Real-world examples and case studies will be used to illustrate the importance of statistical literacy."
+  department: Mathematics
+  repeatable: false
+- number: 3014MTH
+  name: Statistics
+  description: "Learn the basics of data analysis, probability, and statistical reasoning for practical decision-making. This course introduces students to the foundational concepts of statistics, equipping them with the skills to interpret and present data effectively. Real-world examples and case studies will be used to illustrate the importance of statistical literacy."
+  department: Mathematics
+  repeatable: false
+- number: 3369MTH
+  name: Geometry
+  description: "Discover the principles of shapes, sizes, and the properties of space through engaging problem-solving activities. This course explores geometric concepts such as angles, triangles, and circles, emphasizing their applications in the real world. Students will develop logical reasoning and spatial visualization skills through interactive lessons and projects."
+  department: Mathematics
+  repeatable: false
+- number: 3370MTH
+  name: Geometry
+  description: "Discover the principles of shapes, sizes, and the properties of space through engaging problem-solving activities. This course explores geometric concepts such as angles, triangles, and circles, emphasizing their applications in the real world. Students will develop logical reasoning and spatial visualization skills through interactive lessons and projects."
+  department: Mathematics
+  repeatable: false
+- number: 3485MTH
+  name: Algebra II
+  description: "Build on algebraic concepts to solve complex equations and understand functions, preparing for advanced math courses. This course delves into quadratic equations, polynomials, and logarithmic functions, providing a strong foundation for higher-level mathematics. Students will engage in problem-solving exercises to enhance their analytical and critical thinking abilities."
+  department: Mathematics
+  repeatable: false
+- number: 3589MTH
+  name: Pre-Calculus
+  description: "Prepare for calculus by mastering advanced algebra, trigonometry, and analytical geometry concepts. This course bridges the gap between algebra and calculus, focusing on topics such as sequences, series, and trigonometric identities. Students will gain the skills needed to tackle calculus with confidence through rigorous practice and real-world applications."
+  department: Mathematics
+  repeatable: false
+- number: 3597MTH
+  name: AP Calculus AB
+  description: "Study the fundamentals of calculus, including limits, derivatives, and integrals, to prepare for the AP exam. This course provides a comprehensive introduction to calculus, emphasizing both theoretical understanding and practical problem-solving. Students will explore real-world applications of calculus in fields such as physics, engineering, and economics."
+  department: Mathematics
+  repeatable: false
+- number: 3598Comp
+  name: AP Calculus BC Compacted
+  description: "Accelerate your learning with a compacted course covering both Calculus AB and BC topics for the AP exam. This intensive course challenges students to master advanced calculus concepts, including parametric equations and polar coordinates. Through a combination of lectures, assignments, and practice exams, students will be well-prepared for the AP exam."
+  department: Mathematics
+  repeatable: false
+- number: 3688MTH
+  name: Consumer Math
+  description: "Learn practical math skills for managing personal finances, budgeting, and making informed financial decisions. This course covers essential topics such as interest rates, taxes, and investment strategies, providing students with the tools to navigate financial challenges. Real-life scenarios and simulations will help students apply their knowledge effectively."
+  department: Mathematics
+  repeatable: false
+- number: 3788MTH
+  name: Consumer Math
+  description: "Learn practical math skills for managing personal finances, budgeting, and making informed financial decisions. This course covers essential topics such as interest rates, taxes, and investment strategies, providing students with the tools to navigate financial challenges. Real-life scenarios and simulations will help students apply their knowledge effectively."
+  department: Mathematics
+  repeatable: false
+- number: 4017SCI
+  name: Aviation & Space
+  description: "Explore the science of flight and space exploration, including the principles of aerodynamics and astronomy. This course takes students on a journey through the history and future of aviation and space travel, highlighting key technological advancements. Hands-on activities and experiments will deepen students' understanding of the forces and principles at play."
+  department: Science
+  repeatable: false
+- number: 4122SCI
+  name: Biology
+  description: "Study the fundamentals of life sciences, including cell biology, genetics, and ecosystems. This course provides a comprehensive overview of biological concepts, emphasizing their relevance to everyday life. Students will engage in laboratory experiments and fieldwork to explore the diversity of life and the interconnectedness of ecosystems."
+  department: Science
+  repeatable: false
+- number: 4222SCI
+  name: Biology
+  description: "Study the fundamentals of life sciences, including cell biology, genetics, and ecosystems. This course provides a comprehensive overview of biological concepts, emphasizing their relevance to everyday life. Students will engage in laboratory experiments and fieldwork to explore the diversity of life and the interconnectedness of ecosystems."
+  department: Science
+  repeatable: false
+- number: 4223SCI
+  name: AP Biology
+  description: "Dive deep into advanced biological concepts, preparing for the AP exam with a focus on labs and critical thinking. This course challenges students to analyze complex biological systems, from molecular processes to ecological interactions. Through rigorous coursework and hands-on experiments, students will develop the skills needed to excel in the AP exam and beyond."
+  department: Science
+  repeatable: false
+- number: 4224SCI
+  name: AP Biology
+  description: "Dive deep into advanced biological concepts, preparing for the AP exam with a focus on labs and critical thinking. This course challenges students to analyze complex biological systems, from molecular processes to ecological interactions. Through rigorous coursework and hands-on experiments, students will develop the skills needed to excel in the AP exam and beyond."
+  department: Science
+  repeatable: false
