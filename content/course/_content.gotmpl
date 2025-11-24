@@ -1,7 +1,7 @@
 {{/* Get remote data. */}}
 
 {{ $data := dict }}
-{{ $url := "https://docs.google.com/spreadsheets/d/e/2PACX-1vQR09leHgbJ4uQ2pY0nJE_RoPhRibYa_uRm4hcyMe5ze5TUhpBK2WIt-zGyz_cSwr80dBI5iK3-LnaI/pub?output=csv" }}
+{{ $url := "https://docs.google.com/spreadsheets/d/e/2PACX-1vQR09leHgbJ4uQ2pY0nJE_RoPhRibYa_uRm4hcyMe5ze5TUhpBK2WIt-zGyz_cSwr80dBI5iK3-LnaI/pub?gid=0&single=true&output=csv" }}
 {{ $seed := now.Unix }}
 {{ $randUrl := (printf "&rando=%s" (printf "%.10s" (sha256 $seed)) | printf "%s%s" $url | printf "%s") }}
 
