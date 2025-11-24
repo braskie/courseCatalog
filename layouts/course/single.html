@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+  {{ $title := .title }}
+  {{ $content := .Content }}
+  {{ $department := .Params.department }}
+
+{{ end }}
+
+
+<pre>{{ debug.Dump .Params }}</pre>
+
+{{ with $title }}<h1>{{ . }}</h1>{{ end }}
+
+<ul>
+    <li><strong>Department</strong>: {{ $department }}</li>
+    <li><strong>Repeatable</strong>: {{ $repeatable }}</li>
+</ul>
+
+{{ with $content }}<div>{{ . }}</div>{{ end }}
+
+{{ end }}
