@@ -1,0 +1,49 @@
+{{/* Get remote data. */}}
+
+{{ $data := dict }}
+{{ $url := "https://docs.google.com/spreadsheets/d/e/2PACX-1vQR09leHgbJ4uQ2pY0nJE_RoPhRibYa_uRm4hcyMe5ze5TUhpBK2WIt-zGyz_cSwr80dBI5iK3-LnaI/pub?output=csv" }}
+{{ $seed := now.Unix }}
+{{ $randUrl := (printf "&rando=%s" (printf "%.10s" (sha256 $seed)) | printf "%s%s" $url | printf "%s") }}
+
+
+{{ with try (resources.GetRemote $randUrl) }}
+  {{ with .Err }}
+    {{ errorf "Unable to get remote resource %s: %s" $url . }}
+  {{ else with .Value }}
+    {{ $data = . | transform.Unmarshal }}
+  {{ else }}
+    {{ errorf "Unable to get remote resource %s" $url }}
+  {{ end }}
+{{ end }}
+
+{{ range after 1 $data }}
+
+  {{ $course_number := index . 0 }}
+  {{ $course_name := index . 1 }}
+  {{ $course_description := index . 2 }}
+  {{ $department := index . 3 }}
+  {{ $repeatable := index . 4 }}
+
+  {{ $content := dict 
+    "mediaType" "text/markdown" 
+    "value" $course_description 
+  }}
+
+  {{ $params := dict 
+    "course_number" $course_number 
+    "department" $department 
+  }}
+  
+  {{ $path := print $department "/" $course_number }}}}
+
+  {{ $page := dict
+      "content" $content
+      "params" $params
+      "path" $path
+      "title" $course_number
+      "repeatable" $repeatable
+  }}
+
+    {{ $.AddPage $page }}
+
+{{ end }}
