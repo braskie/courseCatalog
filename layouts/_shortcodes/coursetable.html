@@ -6,11 +6,14 @@
     @example {{< coursetable sortBy="Params.name">}}
 */ -}}
 
-{{- $filterBy := .Get "filterBy" | default "" }}
 {{- $sortBy := .Get "sortBy" | default "Params.number" -}}
 
+<!--
+Attempting to allow a filterBy parameter. This could be useful for other tables such as a list of AP courses.
+{{- $filterBy := .Get "filterBy" | default "" }}
 {{ $filteredPages := where .Site.RegularPages "Params.honors" "AP" }}
 <pre>{{ range $filteredPages }}.{{end}}</pre>
+-->
 
 <table class="table-auto" style="display: table;">
     <thead>
