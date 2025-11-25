@@ -13,3 +13,7 @@ flowchart TD;
     1213ENG-->1220ENG;
 
 ```
+
+## Course Table
+
+{{< coursetable sortBy="Params.number">}}

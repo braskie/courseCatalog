@@ -47,3 +47,7 @@ The department encourages all students to take four years of math. Studies have 
 The K-12 district math curricula fosters independent thinkers who can work collaboratively to analyze problems and explain or justify their thinking. Our math department focuses on helping students understand not just the hows of math, but also the whys. Our materials align with our adopted Wisconsin Standards for Mathematics and have met all the critical benchmarks for fostering academic excellence in mathematics.
 
 Colleges, universities, and vocational schools all have different entrance requirements. Students should meet with their counselor, speak with college admissions officers or go online to view specific math requirements.
+
+## Course Table
+
+{{< coursetable sortBy="Params.number">}}
