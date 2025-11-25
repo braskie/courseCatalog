@@ -29,6 +29,7 @@
   {{ $req_prereq          := index . 8 }}
   {{ $length              := index . 9 }}
   {{ $requestable         := index . 10 }}
+  {{ $required            := index . 11 }}
 
   {{ $content := dict 
     "mediaType" "text/markdown" 
@@ -46,6 +47,7 @@
     "req_prereq" $req_prereq
     "length" $length
     "requestable" $requestable
+    "required" $required
   }}
   
   {{ $path := print $department "/" $number }}
