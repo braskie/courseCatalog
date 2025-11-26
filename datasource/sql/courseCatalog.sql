@@ -22,7 +22,6 @@ from CoursePrerequisite pr
     inner join course c1 on c1.courseid = pr.courseid
     inner join Calendar cal on cal.calendarID = c1.calendarID
     inner join School s on s.schoolID = cal.schoolID
-
 WHERE
     cal.endYear = 2027
     and cal.schoolID in (11,21)
@@ -39,7 +38,21 @@ from v_CourseGradingTask gt
     where
         cal.endYear = 2027
     and cal.schoolID in (11,21)
-    and gt.transcript = 1
+    --and gt.transcript = 1
+    and gt.name = 'Semester Grade'
+)
+, prereqs AS (
+select distinct
+    c1.number course_number
+    ,transcriptCourseNumberString prereqs
+from CoursePrerequisite pr
+    inner join course c1 on c1.courseid = pr.courseid
+    inner join Calendar cal on cal.calendarID = c1.calendarID
+    inner join School s on s.schoolID = cal.schoolID
+    where
+        cal.endYear = 2027
+    and cal.schoolID in (11,21)
+    and pr.[type] in ('P','PC')
 )
 
 
@@ -52,15 +65,16 @@ select
     ,[repeatable]
     ,FORMAT(ISNULL(cr1.credit, 0) + ISNULL(cr2.credit, 0), '0.0###') credits --check this math. It probabl isn't the best way to do this
     ,isnull(gl.grade_level, '') grade_level
-    ,'' CoursePrerequisite
+    ,isnull(pr.prereqs, '') CoursePrerequisite
     ,'' duration
     ,requestable
-    ,cm.type [required]
+    ,case cm.type when 'R' then 'Required' when 'E' then 'Elective' else 'UnknownType'end [required]
     ,isnull(honorsCode, '') honors
 from coursemaster cm
     left join children co on co.course1number = cm.number and co.[type] = 'PO'
     left join children po on po.course1number = cm.number and po.[type] = 'CO'
     left join grade_level gl on gl.course_number = cm.number
+    left join prereqs pr on pr.course_number = cm.number
     left join credits cr1 on cr1.course_number = cm.number
     left join credits cr2 on cr2.course_number = co.course2number
 where
