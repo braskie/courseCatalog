@@ -1,6 +1,6 @@
 baseURL: localhost:1313
 languageCode: en-us
-title: SPASD Course Catalog
+title: District Course Catalog
 module:
   imports:
     - path: github.com/imfing/hextra
@@ -14,5 +14,5 @@ params:
     width: wide
   banner:
     key: "warning"
-    message: This site is an example SPASD course catalog and should **not be considered an authoritative source**.
+    message: This site is an example High School course catalog and should **not be considered an authoritative source**.
   externalLinkDecoration: true

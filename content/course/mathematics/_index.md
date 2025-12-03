@@ -28,8 +28,11 @@ flowchart TD;
     3013MTH[Statistics]
     click 3013MTH "/3013MTH"
     3596MTH[AP Calculus AB]
+    click 3596MTH "/3596MTH"
     3598MTH[AP Calculus BC]
+    click 3598MTH "/3598MTH"
     3474COMP[Compacted AP Calculus AB/BC]
+    click 3474COMP "/3474COMP"
 
     subgraph Calculus
         direction TB
@@ -50,7 +53,7 @@ flowchart TD;
 
 ```
 
-## Studying Math at Sun Prairie High Schools
+## Studying Math at Prairie Sun High Schools
 
 The department encourages all students to take four years of math. Studies have shown that students do significantly better in post-secondary mathematics courses if they have taken a math class every year of their secondary education. All students need 3 credits of math to graduate. Mathematics is an essential tool in many fields including the trades, fine arts, family and consumer sciences, natural science, engineering, medicine, and the social sciences. The purpose of our math curricula is to provide all students with the opportunity to be successful at their current level of math development and to enable them to progress in their mathematical knowledge. The curricula we offer is comprehensive and due to math’s sequential nature, it is important that you plan your complete math program to avoid scheduling conflicts. **Students taking Pre-Calculus, AP Calculus, AP Statistics, and Statistics may want to purchase their own graphics calculator (TI-83 or TI-84 series is recommended). All other classes will use a scientific calculator.**
 
