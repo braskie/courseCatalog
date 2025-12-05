@@ -1,0 +1,32 @@
+[
+    {
+        "number": "5898FOR",
+        "child": "",
+        "name": "Hmong Lang Heritage Spkrs IV",
+        "description": "Grades 10,11,12HMONG LANGUAGE FOR HERITAGE SPEAKERS IV\r\nCourse 5898FOR, 5899FOR\r\nElective Course\r\n1.0 credit\r\nPrerequisite: Hmong Language for Heritage Speakers III",
+        "department": "World Languages",
+        "repeatable": false,
+        "credits": "0.0",
+        "req_gradelevel": "",
+        "req_prereq": "",
+        "duration": "",
+        "requestable": true,
+        "required": "Elective",
+        "honors": ""
+    },
+    {
+        "number": "8002AGR",
+        "child": "",
+        "name": "Large Animal Science",
+        "description": "Grades 10,11,12LARGE ANIMAL SCIENCE&nbsp;Course 8002AGR&nbsp;Elective Course .5 credits&nbsp;Recommended:&nbsp; Companion Animal ScienceThis class will take a field trip to visit one major large animal event such as World Dairy Expo or Midwest Horse Fair\/farm tour. Interested in learning how livestock are raised and where your animal-based food products come from? This course is for students interested in our production animals including beef, dairy, sheep, swine, and chickens. Other topics will include study animal welfare, handling, care, management, nutrition, and safety as well as the food and fiber products that come from our animals. Hands - on labs will include making and evaluating food products such as butter, cheese, ground beef, as well as hatching baby chicks and handling livestock and horses.",
+        "department": "Agriscience",
+        "repeatable": false,
+        "credits": "0.5",
+        "req_gradelevel": "[10,11,12]",
+        "req_prereq": "",
+        "duration": "",
+        "requestable": true,
+        "required": "Elective",
+        "honors": ""
+    }
+]
