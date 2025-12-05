@@ -1,15 +1,12 @@
-{{/* Get remote data. */}}
-
 {{ $data := dict }}
-{{ $url := "https://gohugo.io/shared/examples/data/books.json" }}
-{{ with try (resources.GetRemote $url) }}
-  {{ with .Err }}
-    {{ errorf "Unable to get remote resource %s: %s" $url . }}
-  {{ else with .Value }}
-    {{ $data = . | transform.Unmarshal }}
-  {{ else }}
-    {{ errorf "Unable to get remote resource %s" $url }}
+{{ $path := "data/courses.json" }}
+
+{{ with resources.Get $path }}
+  {{ with . | transform.Unmarshal }}
+    {{ $data = . }}
   {{ end }}
+{{ else }}
+  {{ errorf "Unable to get global resource %q" $path }}
 {{ end }}
 
 {{ range $data }}

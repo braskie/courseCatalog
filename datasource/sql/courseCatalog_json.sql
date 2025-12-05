@@ -101,4 +101,4 @@ where
     )
     and number not like '%/%'
     and requestable = 1
-FOR JSON PATH, ROOT('Courses');
+FOR JSON PATH
