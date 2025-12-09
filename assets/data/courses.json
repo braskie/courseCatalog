@@ -7,12 +7,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5235PED",
@@ -22,12 +22,12 @@
         "department": "Physical Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[5101PED, T-PER]",
+        "req_gradelevel": null,
+        "req_prereq": "Foundations of P.E.",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5858FOR",
@@ -37,12 +37,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5859FOR",
@@ -52,12 +52,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9110MA",
@@ -67,12 +67,12 @@
         "department": "Academies",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1101RDG",
@@ -82,12 +82,12 @@
         "department": "English",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1311ENG",
@@ -97,12 +97,12 @@
         "department": "English",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1313ENG",
@@ -112,12 +112,12 @@
         "department": "English",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[1311ENG]",
+        "req_gradelevel": null,
+        "req_prereq": "Students must successfully complete Creative Writing I BEFORE taking Creative Writing II",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1332ENG",
@@ -127,12 +127,12 @@
         "department": "English",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1354ENG",
@@ -143,11 +143,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1365ENG",
@@ -158,7 +158,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -173,7 +173,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -187,12 +187,12 @@
         "department": "English",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1394ENG",
@@ -202,12 +202,12 @@
         "department": "English",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1395ENG",
@@ -217,12 +217,12 @@
         "department": "English",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[1393ENG]",
+        "req_gradelevel": null,
+        "req_prereq": "1393ENG Dramatic Arts",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1411ENG",
@@ -232,12 +232,12 @@
         "department": "English",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1413ENG",
@@ -247,12 +247,12 @@
         "department": "English",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5878FOR",
@@ -262,12 +262,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5879FOR",
@@ -277,12 +277,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5882FOR",
@@ -293,11 +293,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5884FOR",
@@ -308,11 +308,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5888FOR",
@@ -322,12 +322,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5889FOR",
@@ -337,12 +337,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5899FOR",
@@ -352,12 +352,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2001SOC",
@@ -368,7 +368,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -382,12 +382,12 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2241SOC",
@@ -397,12 +397,12 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Required",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2451SOC",
@@ -413,7 +413,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -427,12 +427,12 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2502SOC",
@@ -443,11 +443,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2600SOC",
@@ -458,11 +458,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Required",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2606SOC",
@@ -473,7 +473,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -488,7 +488,7 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -503,7 +503,7 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -518,11 +518,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3369MTH, 3370MTH]",
+        "req_prereq": "3369MTH, 3370MTH",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3485MTH",
@@ -533,11 +533,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3465MTH,3466MTH]",
+        "req_prereq": "3465MTH, 3466MTH",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3598Comp",
@@ -548,7 +548,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3588MTH, 3589MTH]",
+        "req_prereq": "Calc AB",
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -563,7 +563,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3596MTH, 3597MTH]",
+        "req_prereq": "Pre-calc",
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -578,11 +578,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "[3369MTH, 3370MTH]",
+        "req_prereq": "Geometry",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3688MTH",
@@ -593,11 +593,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "[3465MTH, 3466MTH]",
+        "req_prereq": "Preq  Math I",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "4017SCI",
@@ -607,12 +607,12 @@
         "department": "Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "4122SCI",
@@ -622,12 +622,12 @@
         "department": "Science",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Required",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "4223SCI",
@@ -638,7 +638,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -652,12 +652,12 @@
         "department": "Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "4335SCI",
@@ -667,12 +667,12 @@
         "department": "Science",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "4554SCI",
@@ -683,7 +683,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -697,12 +697,12 @@
         "department": "Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "4566SCI",
@@ -712,12 +712,12 @@
         "department": "Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "4576SCI",
@@ -727,8 +727,8 @@
         "department": "Science",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -742,12 +742,12 @@
         "department": "Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "4581SCI",
@@ -757,12 +757,12 @@
         "department": "Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "4586SCI",
@@ -772,12 +772,12 @@
         "department": "Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5101PED",
@@ -788,11 +788,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[09]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Required",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5275PED",
@@ -802,12 +802,12 @@
         "department": "Physical Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[5101PED, T-PER]",
+        "req_gradelevel": null,
+        "req_prereq": "Foundations of P.E.",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5280PED",
@@ -817,12 +817,12 @@
         "department": "Physical Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[5101PED, T-PER]",
+        "req_gradelevel": null,
+        "req_prereq": "Foundations of P.E.",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5701HEA",
@@ -832,12 +832,12 @@
         "department": "Health",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Required",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7160MUS",
@@ -847,12 +847,12 @@
         "department": "Music",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7167MUS",
@@ -862,12 +862,12 @@
         "department": "Music",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2460SOC",
@@ -877,8 +877,8 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -892,8 +892,8 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -907,8 +907,8 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -923,7 +923,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3588MTH, 3589MTH]",
+        "req_prereq": "Calc AB",
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -938,7 +938,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3596MTH, 3597MTH]",
+        "req_prereq": "Pre-calc",
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -952,8 +952,8 @@
         "department": "Science",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -967,8 +967,8 @@
         "department": "Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -982,8 +982,8 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -998,7 +998,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -1012,12 +1012,12 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3589Bund",
@@ -1027,12 +1027,12 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2030SOC",
@@ -1042,12 +1042,12 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2032SOC",
@@ -1057,12 +1057,12 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2604SOC",
@@ -1072,12 +1072,12 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2605SOC",
@@ -1087,12 +1087,12 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2611SOC",
@@ -1102,12 +1102,12 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2625SOC",
@@ -1117,12 +1117,12 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3383MTH",
@@ -1132,12 +1132,12 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3384MTH",
@@ -1147,12 +1147,12 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3465MTH",
@@ -1162,12 +1162,12 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9471FCE",
@@ -1177,12 +1177,12 @@
         "department": "Youth Apprentice",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "4442SCI",
@@ -1193,7 +1193,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -1207,8 +1207,8 @@
         "department": "Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -1222,8 +1222,8 @@
         "department": "Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -1237,12 +1237,12 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2034SOC",
@@ -1252,8 +1252,8 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -1267,8 +1267,8 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -1282,12 +1282,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2632SOC",
@@ -1297,12 +1297,12 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9432FCE",
@@ -1312,12 +1312,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2251SOC",
@@ -1327,12 +1327,12 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Required",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2300SOC",
@@ -1343,11 +1343,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Required",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2441SOC",
@@ -1357,8 +1357,8 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -1373,11 +1373,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3485MTH, 3486MTH]",
+        "req_prereq": "Algebra II",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3588MTH",
@@ -1388,11 +1388,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3485MTH, 3486MTH]",
+        "req_prereq": "Algebra II",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3596MTH",
@@ -1403,7 +1403,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3588MTH, 3589MTH]",
+        "req_prereq": "Pre-calc",
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -1417,12 +1417,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6013FOR",
@@ -1432,12 +1432,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "[6011FOR, 6012FOR]",
+        "req_gradelevel": null,
+        "req_prereq": "Spanish I",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6015FOR",
@@ -1447,12 +1447,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "[6013FOR, 6014FOR]",
+        "req_gradelevel": null,
+        "req_prereq": "Spanish II",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6017FOR",
@@ -1463,11 +1463,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "[6015FOR, 6016FOR]",
+        "req_prereq": "Spanish III",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6019FOR",
@@ -1478,7 +1478,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[12]",
-        "req_prereq": "[6017FOR, 6018FOR]",
+        "req_prereq": "Spanish IV",
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -1492,12 +1492,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6133FOR",
@@ -1507,12 +1507,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "[6131FOR, 6132FOR]",
+        "req_gradelevel": null,
+        "req_prereq": "French I",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6135FOR",
@@ -1522,12 +1522,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "[6133FOR, 6134FOR]",
+        "req_gradelevel": null,
+        "req_prereq": "French II",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6137FOR",
@@ -1538,11 +1538,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "[6135FOR, 6136FOR]",
+        "req_prereq": "French III",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6139FOR",
@@ -1553,7 +1553,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[12]",
-        "req_prereq": "[6137FOR, 6138FOR]",
+        "req_prereq": "French IV",
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -1567,12 +1567,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6213FOR",
@@ -1582,12 +1582,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "[6211FOR, 6212FOR]",
+        "req_gradelevel": null,
+        "req_prereq": "German I",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6215FOR",
@@ -1597,12 +1597,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6216FOR",
@@ -1612,12 +1612,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6217FOR",
@@ -1627,12 +1627,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6218FOR",
@@ -1642,12 +1642,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6221FOR",
@@ -1657,8 +1657,8 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -1672,8 +1672,8 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -1687,12 +1687,12 @@
         "department": "Music",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7315ART",
@@ -1702,12 +1702,12 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7316ART",
@@ -1717,12 +1717,12 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7335ART",
@@ -1732,12 +1732,12 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[7440ART,7336ART,7355ART,7316ART,7315ART,7325ART,7327ART,7340ART,7350ART]",
+        "req_gradelevel": null,
+        "req_prereq": "Any Level 1 Art Course\nSuggested Drawing I or Digital Media Art I",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7336ART",
@@ -1747,12 +1747,12 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7342ART",
@@ -1763,11 +1763,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[7329ART]",
+        "req_prereq": "7329ART",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7353ART",
@@ -1778,7 +1778,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[7342ART, 7332ART, 7321ART, 7357ART]",
+        "req_prereq": "At least 1 level 3 course OR instructor consent",
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -1792,12 +1792,12 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8428TED",
@@ -1807,12 +1807,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9425FCE",
@@ -1822,12 +1822,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9462FCE",
@@ -1838,11 +1838,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9210FCE",
@@ -1852,12 +1852,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9213FCE",
@@ -1867,12 +1867,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[9210FCE]",
+        "req_gradelevel": null,
+        "req_prereq": "Students must successfully complete Foods I before taking Foods II",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9329FCE",
@@ -1883,11 +1883,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "[9327FCE, 9328FCE]",
+        "req_prereq": "Culinary Arts\/Pro Start I",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9336FCE",
@@ -1897,12 +1897,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9429FCE",
@@ -1912,12 +1912,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9435FCE",
@@ -1927,12 +1927,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[9429FCE]",
+        "req_gradelevel": null,
+        "req_prereq": "Medical Occupations I\n",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9106FCE",
@@ -1942,12 +1942,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[9103FCE]",
+        "req_gradelevel": null,
+        "req_prereq": "Students must successfully complete Clothing I before taking Clothing II (these two classes are often combined into the same period during the year)",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9109FCE",
@@ -1957,12 +1957,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9410FCE",
@@ -1972,12 +1972,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5864FOR",
@@ -1987,12 +1987,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5862FOR",
@@ -2002,12 +2002,12 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8303TED",
@@ -2017,12 +2017,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8305TED",
@@ -2032,12 +2032,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8309TED",
@@ -2047,12 +2047,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8310TED",
@@ -2062,12 +2062,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8313TED",
@@ -2077,12 +2077,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8315TED",
@@ -2092,12 +2092,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8403TED",
@@ -2107,12 +2107,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8316TED",
@@ -2122,12 +2122,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8404TED",
@@ -2137,12 +2137,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[8403TED\n\n]",
+        "req_gradelevel": null,
+        "req_prereq": "General Woodworking is required before Cabinetry, but both may be taken in the same year.",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8429TED",
@@ -2152,12 +2152,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8801TED",
@@ -2167,12 +2167,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8311TED",
@@ -2182,12 +2182,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8307TED",
@@ -2197,12 +2197,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8308TED",
@@ -2212,12 +2212,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8314TED",
@@ -2227,12 +2227,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8826TED",
@@ -2242,12 +2242,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8806TED",
@@ -2257,12 +2257,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8409TED",
@@ -2273,11 +2273,11 @@
         "repeatable": false,
         "credits": "1.5",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "[8428TED,8429TED]",
+        "req_prereq": "8428TED OR 8429TED",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9400FCE",
@@ -2287,12 +2287,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9305FCE",
@@ -2302,12 +2302,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9115FCE",
@@ -2317,12 +2317,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8705TED",
@@ -2332,12 +2332,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9112MA",
@@ -2347,12 +2347,12 @@
         "department": "Academies",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8029AGR",
@@ -2363,11 +2363,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "[8028AGR]",
+        "req_prereq": "8028AGR Food Science",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "4577SCIGFS",
@@ -2377,8 +2377,8 @@
         "department": "Academies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -2392,12 +2392,12 @@
         "department": "Academies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "0787AGRGFS",
@@ -2407,12 +2407,12 @@
         "department": "Academies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1376ENG",
@@ -2423,7 +2423,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "[1378ENG, 1379ENG]",
+        "req_prereq": "1378ENG, 1379ENG",
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -2437,12 +2437,12 @@
         "department": "Agriscience",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8046AGR",
@@ -2452,12 +2452,12 @@
         "department": "Agriscience",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8010AGR",
@@ -2467,12 +2467,12 @@
         "department": "Agriscience",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8003AGR",
@@ -2483,11 +2483,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8028AGR",
@@ -2497,12 +2497,12 @@
         "department": "Agriscience",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8009AGR",
@@ -2512,12 +2512,12 @@
         "department": "Agriscience",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8016AGR",
@@ -2527,12 +2527,12 @@
         "department": "Agriscience",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8027AGR",
@@ -2543,11 +2543,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8020AGR",
@@ -2557,12 +2557,12 @@
         "department": "Agriscience",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7440ART",
@@ -2572,12 +2572,12 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7441ART",
@@ -2587,12 +2587,27 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[7440ART]",
+        "req_gradelevel": null,
+        "req_prereq": "7440ART",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
+    },
+    {
+        "number": "7441ART",
+        "child": null,
+        "name": "Art Metals II",
+        "description": "<p>Grades 10,11,12<br>ART METALS II<\/p><p>Course 7441ART<\/p><p>Elective Course<\/p><p>.5 credits<\/p><p>Prereq: &nbsp;Art Metals I<\/p><p>Art Metals II is designed for students who have taken Art Metals 1 and want to complete advanced design prompts and learn additional metalworking techniques. Students will learn how to enamel, set a stone, and create more complex soldering projects in addition to continuing to practice many of the skills learned in Art Metals I. Students will consider the relationship between form and function, and higher-level design thinking will be encouraged, such as designing multiple pieces around a common theme.<\/p>",
+        "department": "Art",
+        "repeatable": false,
+        "credits": "0.5",
+        "req_gradelevel": null,
+        "req_prereq": "Art Metals I",
+        "duration": "",
+        "requestable": true,
+        "required": "Elective",
+        "honors": null
     },
     {
         "number": "7317ART",
@@ -2602,12 +2617,27 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[7315ART]",
+        "req_gradelevel": null,
+        "req_prereq": "7315ART",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
+    },
+    {
+        "number": "7317ART",
+        "child": null,
+        "name": "Ceramics II",
+        "description": "<p>Grades 9,10,11,12<\/p><p>CERAMICS II Course 7317ART Elective<\/p><p>Course .5 credits&nbsp;<\/p><p>Prerequisite: Ceramics I&nbsp;<\/p><p>Ceramics II is a course that is designed for students who have already taken Ceramics I and are interested in furthering their knowledge and skills in Ceramics. Students will apply and refine their previously learned skills from Ceramics I as well as new skills and techniques. In each project, students will practice the design process of researching, planning, creating, reflecting, and presenting in a studio classroom setting. Students will research and study the processes and styles of various ceramics artists throughout the semester, and will use this research to refine their own practices. Students will create both functional and sculptural works throughout the semester using the pottery wheel and hand sculpting methods.<\/p>",
+        "department": "Art",
+        "repeatable": false,
+        "credits": "0.5",
+        "req_gradelevel": null,
+        "req_prereq": "Ceramics I",
+        "duration": "",
+        "requestable": true,
+        "required": "Elective",
+        "honors": null
     },
     {
         "number": "7321ART",
@@ -2618,11 +2648,26 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[7317ART]",
+        "req_prereq": "7317ART",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
+    },
+    {
+        "number": "7321ART",
+        "child": null,
+        "name": "Ceramics III",
+        "description": "<p>Grades 10,11,12<br>CERAMICS III<\/p><p>Course 7321ART<\/p><p>Elective Course<\/p><p>.5 credits<\/p><p>Prerequisite: Ceramics II<\/p><p>In Ceramics III, students interested in continuing to advance their clay building skills will use and apply the elements and principles of design to create a portfolio of ceramic works that showcase their skills and interests. In each project, students will research, plan, create, reflect, and present their work. Students will have the freedom to self-select project ideas and processes.<\/p>",
+        "department": "Art",
+        "repeatable": false,
+        "credits": "0.5",
+        "req_gradelevel": "[10,11,12]",
+        "req_prereq": "Ceramics II",
+        "duration": "",
+        "requestable": true,
+        "required": "Elective",
+        "honors": null
     },
     {
         "number": "7322ART",
@@ -2633,11 +2678,26 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[7321ART]",
+        "req_prereq": "7321ART",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
+    },
+    {
+        "number": "7322ART",
+        "child": null,
+        "name": "Ceramics IV",
+        "description": "<p>Grades 10,11,12<br>CERAMICS IV<\/p><p>Course 7322ART<\/p><p>Elective Course<\/p><p>.5 credits<\/p><p>Prerequisite: Ceramics III<\/p><p>Ceramics IV is designed for advanced ceramic students who are self-motivated and interested in planning and creating a focused portfolio of ceramic works that showcase their individual style. Students will be creating both functional and conceptual work using a variety of clay techniques. Students will further their skills in wheel throwing, hand building, sculpture, slab building, and coil building. In each project, students will research, plan, create, reflect, and present their work. Students will have the freedom to self-select themes and project ideas.<\/p>",
+        "department": "Art",
+        "repeatable": false,
+        "credits": "0.5",
+        "req_gradelevel": "[10,11,12]",
+        "req_prereq": "Ceramics III",
+        "duration": "",
+        "requestable": true,
+        "required": "Elective",
+        "honors": null
     },
     {
         "number": "7325ART",
@@ -2647,12 +2707,12 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7324ART",
@@ -2662,12 +2722,27 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[7325ART]",
+        "req_gradelevel": null,
+        "req_prereq": "7325ART",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
+    },
+    {
+        "number": "7324ART",
+        "child": null,
+        "name": "Drawing II",
+        "description": "<p>Grades 9,10,11,12<br>DRAWING II<\/p><p>Course 7324ART<\/p><p>Elective Course<\/p><p>.5 credits<\/p><p>Prerequisite: Drawing I<\/p><p>Students who are interested in illustration or advancing their general drawing skills should take this course. &nbsp;Students will apply unique, individual and advanced visual design techniques. Students will use accurate scientific information, advanced observation skills and a high level of detail to create sophisticated artworks. &nbsp;Students will use their own talents and interests as a guide. &nbsp;Students will experiment with diverse media and techniques. &nbsp; &nbsp;<\/p>",
+        "department": "Art",
+        "repeatable": false,
+        "credits": "0.5",
+        "req_gradelevel": null,
+        "req_prereq": "Drawing I",
+        "duration": "",
+        "requestable": true,
+        "required": "Elective",
+        "honors": null
     },
     {
         "number": "7332ART",
@@ -2678,11 +2753,26 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[7324ART]",
+        "req_prereq": "7324ART",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
+    },
+    {
+        "number": "7332ART",
+        "child": null,
+        "name": "Drawing III",
+        "description": "<p>Grades 10,11,12<br>DRAWING III<\/p><p>Course 7332ART<\/p><p>Elective Course<\/p><p>.5 credits<\/p><p>Prereq: &nbsp;Drawing II<\/p><p>Drawing III is designed for advanced artists who have completed both Drawing I &amp; II. In this course, students will be creating a focused set of Drawings using a variety of media. Students will further their skills in traditional and nontraditional media and techniques. Artists will compile a portfolio of these focused drawings they have created throughout the semester.<\/p>",
+        "department": "Art",
+        "repeatable": false,
+        "credits": "0.5",
+        "req_gradelevel": "[10,11,12]",
+        "req_prereq": "Drawing II",
+        "duration": "",
+        "requestable": true,
+        "required": "Elective",
+        "honors": null
     },
     {
         "number": "7333ART",
@@ -2693,11 +2783,26 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[7332ART]",
+        "req_prereq": "7332ART",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
+    },
+    {
+        "number": "7333ART",
+        "child": null,
+        "name": "Drawing IV",
+        "description": "<p>Grades 10,11,12<br>DRAWING IV<\/p><p>Course 7333ART<\/p><p>Elective Course<\/p><p>.5 credits<\/p><p>Prerequisite: Drawing III<\/p><p>Drawing III is designed for advanced artists who have completed both Drawing I &amp; II. In this course, students will be creating a focused set of Drawings using a variety of media. Students will further their skills in traditional and nontraditional media and techniques. Artists will compile a portfolio of these focused drawings they have created throughout the semester.<\/p>",
+        "department": "Art",
+        "repeatable": false,
+        "credits": "0.5",
+        "req_gradelevel": "[10,11,12]",
+        "req_prereq": "Drawing III",
+        "duration": "",
+        "requestable": true,
+        "required": "Elective",
+        "honors": null
     },
     {
         "number": "7327ART",
@@ -2707,12 +2812,12 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7329ART",
@@ -2722,12 +2827,12 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[7327ART]",
+        "req_gradelevel": null,
+        "req_prereq": "7327ART",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7343ART",
@@ -2738,11 +2843,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[7342ART]",
+        "req_prereq": "7342ART",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7340ART",
@@ -2752,12 +2857,12 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7345ART",
@@ -2767,12 +2872,12 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[7340ART]",
+        "req_gradelevel": null,
+        "req_prereq": "7340ART",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7351ART",
@@ -2782,12 +2887,12 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[7350ART]",
+        "req_gradelevel": null,
+        "req_prereq": "7350ART",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7312ART",
@@ -2798,7 +2903,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "[7321ART,7332ART,7342ART,7357ART]",
+        "req_prereq": "At least 1 level 3 course OR instructor consent",
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -2813,11 +2918,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "[7321ART,7332ART,7342ART,7357ART]",
+        "req_prereq": "At least 1 level 3 art course OR instructor consent",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7308ART",
@@ -2827,8 +2932,8 @@
         "department": "Art",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -2842,12 +2947,12 @@
         "department": "Business",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6476BUS",
@@ -2857,12 +2962,12 @@
         "department": "Business",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6443BUS",
@@ -2872,12 +2977,12 @@
         "department": "Business",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6311BUS",
@@ -2887,12 +2992,12 @@
         "department": "Business",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6421BUS",
@@ -2903,11 +3008,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6431BUS",
@@ -2918,11 +3023,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "[6421BUS, 6422BUS]",
+        "req_prereq": "1.0 Credit of Accounting I",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6461BUS",
@@ -2932,12 +3037,12 @@
         "department": "Business",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3812CIS",
@@ -2947,12 +3052,12 @@
         "department": "Computer and Information Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3813CIS",
@@ -2962,12 +3067,12 @@
         "department": "Computer and Information Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[3812CIS]",
+        "req_gradelevel": null,
+        "req_prereq": "3812CIS",
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3847CIS",
@@ -2977,12 +3082,12 @@
         "department": "Computer and Information Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3848CIS",
@@ -2992,12 +3097,12 @@
         "department": "Computer and Information Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[3847CIS]",
+        "req_gradelevel": null,
+        "req_prereq": "3847CIS",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1213ENG",
@@ -3008,11 +3113,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[09]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Required",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1220ENG",
@@ -3023,11 +3128,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Required",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1351ENG",
@@ -3038,11 +3143,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1356ENG",
@@ -3053,11 +3158,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "[1378ENG, 1220ENG]",
+        "req_prereq": "1220ENG English 10 or 1378ENG AP Seminar",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1370ENG",
@@ -3068,7 +3173,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -3082,12 +3187,12 @@
         "department": "Business",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6341BUS",
@@ -3098,11 +3203,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3850CIS",
@@ -3112,12 +3217,12 @@
         "department": "Computer and Information Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3804CIS",
@@ -3127,8 +3232,8 @@
         "department": "Computer and Information Science",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -3143,7 +3248,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3804CIS, 3805CIS]",
+        "req_prereq": "3804CIS, 3805CIS",
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -3157,12 +3262,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9327FCE",
@@ -3173,11 +3278,26 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[9213FCE]",
+        "req_prereq": "9213FCE Foods II",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
+    },
+    {
+        "number": "9327FCE",
+        "child": "9328FCE",
+        "name": "Culinary Arts\/Pro Start I",
+        "description": "<p>Grades 10,11,12<br>CULINARY ARTS\/PROSTART (Four consecutive semesters)<\/p><p>Culinary Arts\/Prostart I, Course 9327FCE<\/p><p>Elective Course<\/p><p>.5 credits each semester<\/p><p>Prerequisite: Foods II: Introduction to Food Service<\/p><p>Recommended earning a C or better in Foods II<\/p><p>&nbsp;In Culinary Arts I, students will get an overview of the Restaurant and Foodservice industry, learn about the safety and sanitation required for a food operation, learn about different equipment in a commercial kitchen and kitchen basics, the principles of service and management, and explore the culinary areas of sauces, soups, salads, dips, sandwiches, and pizzas, as well as different cooking methods. The ProStart Program is a two-year industry-based program that prepares students for careers in the restaurant and foodservice industry. Students gain valuable restaurant and foodservice skills through academic and workplace experiences. Students will have the opportunity to participate in catering activities, and in simulated restaurants, preparing meals for faculty, and the Wall-of-Success recipient and community members. Students may participate in culinary food preparation competitions (Family, Career, and Community Leaders of America-FCCLA, Skills USA-Culinary Arts, and ProStart). Class challenges will help students prepare themselves for competitions in addition to giving them the chance to test their ability to work under pressure. &nbsp;<\/p>",
+        "department": "Family and Consumer Science",
+        "repeatable": false,
+        "credits": "1.0",
+        "req_gradelevel": "[10,11,12]",
+        "req_prereq": "9213FCE Foods II – Introduction to Food Service",
+        "duration": "",
+        "requestable": true,
+        "required": "Elective",
+        "honors": null
     },
     {
         "number": "9433FCE",
@@ -3188,11 +3308,26 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "[9429FCE]",
+        "req_prereq": "9429FCE Medical Occupations I",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
+    },
+    {
+        "number": "9433FCE",
+        "child": null,
+        "name": "Certified Nursing Assistant",
+        "description": "<p>Grades 11,12<br>CERTIFIED NURSING ASSISTANT<\/p><p>Course 9433FCE<\/p><p>Elective Course<\/p><p>.5 credits<\/p><p id=\"isPasted\">Prerequisite: Medical Occupations I. Must be completed by the end of Junior year. &nbsp;Must be Junior or Senior<\/p><p>Recommended earning a “C” or better in Medical Occupations I<\/p><p><br><\/p><p>Course Fees:<\/p><p>$83 for health history and background check<\/p><p>$43.99 for drug testing, if required by clinical site<\/p><p>$15 for ID badge, if required by clinical site<\/p><p>$135 Test Fee (optional)<\/p><p>Note: Dual Credit may be offered*<\/p><p>Note: Acceptance into this course is dependent on age (must be 16 or older) and a strong attendance history. Madison College does not allow any absences for CNA class, labs, or clinicals. Please see <a href=\"https:\/\/madisoncollege.edu\/academics\/programs\/nursing-assistant\" target=\"_blank\" rel=\"noopener noreferrer\">Madison College’s Nursing Assistant website<\/a> for the most up-to-date information.&nbsp;<\/p><p><br><\/p><p>The nursing assistant program prepares students for employment as nursing assistants and home health aides. The program includes 80 hours of classroom instruction and simulated laboratory practice as well as 40 hours of supervised clinical experience in a hospital or nursing home. Upon successful completion of the program, the student is eligible for the Wisconsin Nurse Aide Registry for employment in nursing homes, hospitals, home health agencies, and homes for the developmentally disabled. Clinical site experience requires TB testing, caregiver background checks, and the ability to lift 50 lbs. Certification requires completion of a state written and skills test. This test will cost students $135.00. Students have up to one year to take the test after completing the Course. Certification is good for up to one year after the date of the test.&nbsp;<\/p><p><br><\/p><p>*This course differs from a dual credit course in that it is taught by a Madison College instructor at Sun Prairie High Schools. Students will receive both SPASD and Madison College credits.&nbsp;<\/p>",
+        "department": "Family and Consumer Science",
+        "repeatable": false,
+        "credits": "0.5",
+        "req_gradelevel": "[11,12]",
+        "req_prereq": "Medical Occupations I",
+        "duration": "",
+        "requestable": true,
+        "required": "Elective",
+        "honors": null
     },
     {
         "number": "9326FCE",
@@ -3203,11 +3338,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[9210FCE]",
+        "req_prereq": "Students must successfully complete 9210FCEFoods I before taking Multicultural Foods",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9217FCE",
@@ -3218,11 +3353,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3467MTH",
@@ -3233,11 +3368,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10]",
-        "req_prereq": "[3465MTH, 3466MTH]",
+        "req_prereq": "Math I",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3468MTH",
@@ -3247,12 +3382,12 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3499MTH",
@@ -3262,8 +3397,8 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -3277,12 +3412,12 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2628SOC",
@@ -3293,11 +3428,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[12]",
-        "req_prereq": "[2631SOC, 2632SOC]",
+        "req_prereq": "Introduction to Education and Teaching",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "2629SOC",
@@ -3307,12 +3442,12 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "4502SCIBUND",
@@ -3322,12 +3457,12 @@
         "department": "Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3498MTHBUND",
@@ -3337,8 +3472,8 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -3352,8 +3487,8 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -3367,12 +3502,12 @@
         "department": "Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3498MTH",
@@ -3383,7 +3518,7 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3485MTH, 3486MTH]",
+        "req_prereq": "Algebra II",
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -3398,7 +3533,7 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3465MTH, 3466MTH, 3369MTH, 3370MTH]",
+        "req_prereq": "Math I and Geometry",
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -3412,8 +3547,8 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -3427,12 +3562,12 @@
         "department": "Business",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8023AGR",
@@ -3443,11 +3578,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8014AGR",
@@ -3458,11 +3593,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7350ART",
@@ -3472,12 +3607,12 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7357ART",
@@ -3488,11 +3623,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[7351ART]",
+        "req_prereq": "7351ART",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9103FCE",
@@ -3502,12 +3637,12 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8706TED",
@@ -3517,12 +3652,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[8705]",
+        "req_gradelevel": null,
+        "req_prereq": "Animation and Gaming",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "1390ENG",
@@ -3533,11 +3668,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3013MTH",
@@ -3548,11 +3683,11 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3485MTH, 3486MTH]",
+        "req_prereq": "Alg II",
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5201PED",
@@ -3562,12 +3697,12 @@
         "department": "Physical Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[5101PED, T-PER]",
+        "req_gradelevel": null,
+        "req_prereq": "Foundation of PE",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5200PED",
@@ -3577,12 +3712,12 @@
         "department": "Physical Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[5101PED, T-PER]",
+        "req_gradelevel": null,
+        "req_prereq": "Foundations of P.E.",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5120PED",
@@ -3592,12 +3727,12 @@
         "department": "Physical Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[5101PED, T-PER]",
+        "req_gradelevel": null,
+        "req_prereq": "Foundations of PE",
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5301PED",
@@ -3607,12 +3742,12 @@
         "department": "Physical Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[5101PED, T-PER]",
+        "req_gradelevel": null,
+        "req_prereq": "Foundations of P.E.",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5203PED",
@@ -3622,12 +3757,12 @@
         "department": "Physical Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[5101PED, T-PER]",
+        "req_gradelevel": null,
+        "req_prereq": "Foundations of P.E.",
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "4561SCI",
@@ -3637,12 +3772,12 @@
         "department": "Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "4444SCI",
@@ -3652,12 +3787,12 @@
         "department": "Science",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3005MTH",
@@ -3668,7 +3803,7 @@
         "repeatable": false,
         "credits": "1.0",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3485MTH, 3486MTH]",
+        "req_prereq": "Algebra II and Pre-calc recommended",
         "duration": "",
         "requestable": true,
         "required": "Elective",
@@ -3682,12 +3817,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "[8031TED\n\n]",
+        "req_gradelevel": null,
+        "req_prereq": "Manufact Metals Fabrication I is a  for Manufact Metals II. Both can be taken the same year.",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8031TED",
@@ -3697,12 +3832,12 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7005MUS",
@@ -3712,12 +3847,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7008MUS",
@@ -3727,12 +3862,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7009MUS",
@@ -3742,12 +3877,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7001MUS",
@@ -3757,12 +3892,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7101MUS",
@@ -3772,12 +3907,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7107MUS",
@@ -3787,12 +3922,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7103MUS",
@@ -3802,12 +3937,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "[7107MUS]",
+        "req_gradelevel": null,
+        "req_prereq": "Concert Orchestra",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7105MUS",
@@ -3817,12 +3952,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "[7107MUS]",
+        "req_gradelevel": null,
+        "req_prereq": "Concert Orchestra and consent of instructor",
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7113MUS",
@@ -3832,12 +3967,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3021MTH",
@@ -3847,12 +3982,12 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "3020MTH",
@@ -3863,11 +3998,11 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "[3485MTH, 3486MTH]",
+        "req_prereq": "Algebra II",
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7115MUS",
@@ -3877,12 +4012,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7135MUS",
@@ -3892,12 +4027,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7143MUS",
@@ -3907,12 +4042,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7144MUS",
@@ -3922,12 +4057,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7149MUS",
@@ -3937,12 +4072,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7157MUS",
@@ -3952,12 +4087,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7155MUS",
@@ -3967,12 +4102,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7131MUS",
@@ -3982,12 +4117,12 @@
         "department": "Music",
         "repeatable": true,
         "credits": "0.5",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5837YAP",
@@ -3998,11 +4133,11 @@
         "repeatable": true,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "0000YAP",
@@ -4013,11 +4148,11 @@
         "repeatable": true,
         "credits": "0.5",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5831YAP",
@@ -4028,11 +4163,11 @@
         "repeatable": true,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5860YAP",
@@ -4043,11 +4178,11 @@
         "repeatable": true,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "9461YAP",
@@ -4058,11 +4193,11 @@
         "repeatable": true,
         "credits": "0.5",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5822YAP",
@@ -4073,11 +4208,11 @@
         "repeatable": true,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5833YAP",
@@ -4088,11 +4223,11 @@
         "repeatable": true,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5845YAP",
@@ -4103,11 +4238,11 @@
         "repeatable": true,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5868YAP",
@@ -4118,11 +4253,11 @@
         "repeatable": true,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5841YAP",
@@ -4133,11 +4268,11 @@
         "repeatable": true,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "7400YAP",
@@ -4148,11 +4283,11 @@
         "repeatable": true,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5848YAP",
@@ -4163,11 +4298,11 @@
         "repeatable": true,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5815YAP",
@@ -4178,11 +4313,11 @@
         "repeatable": true,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "6381YAP",
@@ -4193,11 +4328,11 @@
         "repeatable": true,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8840YAP",
@@ -4207,12 +4342,12 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "",
-        "req_prereq": "",
+        "req_gradelevel": null,
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "5839YAP",
@@ -4223,11 +4358,11 @@
         "repeatable": true,
         "credits": "1.0",
         "req_gradelevel": "[11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "UnknownType",
-        "honors": ""
+        "honors": null
     },
     {
         "number": "8002AGR",
@@ -4238,10 +4373,10 @@
         "repeatable": false,
         "credits": "0.5",
         "req_gradelevel": "[10,11,12]",
-        "req_prereq": "",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
-        "honors": ""
+        "honors": null
     }
 ]
