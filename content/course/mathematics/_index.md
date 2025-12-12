@@ -8,47 +8,49 @@ To strengthen all students’ natural curiosity as problem-solvers by developing
 ## Courses Flowchart
 
 ```mermaid
-flowchart TD;
+flowchart LR;
     3465MTH{{Math I}}
-    click 3465MTH "/3465MTH"
-    3369MTH{{Geometry}}
-    click 3369MTH "/3369MTH"
-    3485MTH[Algebra 2]
-    click 3485MTH "/3485MTH"
-    3493MTH[Functions and Trigonometry]
-    click 3493MTH "/3493MTH"
+    3467MTH{{Math II}}
+    3485MTH[Algebra II]
     3383MTH[Math Reasoning]
-    click 3383MTH "/3383MTH"
     3688MTH[Consumer Math]
-    click 3688MTH "/3688MTH"
-    3588MTH[Pre-Calculus]
-    click 3588MTH "/3588MTH"
+    3498MTH[AP Precalculus]
     3005MTH[AP Statistics]
-    click 3005MTH "/3005MTH"
     3013MTH[Statistics]
-    click 3013MTH "/3013MTH"
+    3493MTH[Functions and Trigonometry]
+    3020MTH["Integrated Statistics and Quantitative Reasoning (ISQR)"]
     3596MTH[AP Calculus AB]
-    click 3596MTH "/3596MTH"
     3598MTH[AP Calculus BC]
+
+    click 3465MTH "/3465MTH"
+    click 3467MTH "/3467MTH"
+    click 3485MTH "/3485MTH"
+    click 3493MTH "/3493MTH"
+    click 3383MTH "/3383MTH"
+    click 3688MTH "/3688MTH"
+    click 3498MTH "/3498MTH"
+    click 3005MTH "/3005MTH"
+    click 3013MTH "/3013MTH"
+    click 3596MTH "/3596MTH"
     click 3598MTH "/3598MTH"
-    3474COMP[Compacted AP Calculus AB/BC]
     click 3474COMP "/3474COMP"
+    click 3020MTH "/3020MTH"
 
     subgraph Calculus
-        direction TB
-        3596MTH-->3598MTH
-        3474COMP
+        direction TB;
+        3596MTH-->3598MTH;
     end
 
-    3465MTH-->3369MTH;
-    3369MTH-->3485MTH;
-    3369MTH-->3383MTH;
-    3369MTH-->3688MTH;
-    3485MTH-->3588MTH;
+    3465MTH-->3467MTH-->3485MTH;
+    3467MTH-->3383MTH;
+    3467MTH-->3688MTH;
+    3485MTH-->3498MTH;
     3485MTH-->3013MTH;
     3485MTH-->3005MTH;
     3485MTH-->3493MTH;
-    3588MTH-->Calculus;
+    3485MTH-->3020MTH;
+    3498MTH-->Calculus;
+    
 
 
 ```
