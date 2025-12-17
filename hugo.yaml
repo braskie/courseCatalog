@@ -1,4 +1,4 @@
-baseURL: localhost:1313
+baseURL: https://braskie.github.io/courseCatalog
 languageCode: en-us
 title: District Course Catalog
 disablePathToLower: true
