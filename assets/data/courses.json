@@ -2423,7 +2423,7 @@
         "repeatable": true,
         "credits": "1.0",
         "req_gradelevel": null,
-        "req_prereq": "Concert Orchestra and consent of instructor",
+        "req_prereq": null,
         "duration": "",
         "requestable": true,
         "required": "Elective",
