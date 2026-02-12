@@ -32,7 +32,7 @@ Attempting to allow a filterBy parameter. This could be useful for other tables 
                 <td>{{ .Params.number }}
                     <br />{{ .Params.child }}</a></td>
                 <td><a href="{{ .RelPermalink }}">{{ .Params.name }}</a></td>
-                <td>{{ .Params.req_gradelevel }}</td>
+                <td>{{ with .Params.req_gradelevel }}{{ delimit . ", " " and " }}{{ end }}</td>
                 <td>{{ .Params.req_prereq }}</td>
                 <td>{{ .Params.credits }}</td>
             </tr>

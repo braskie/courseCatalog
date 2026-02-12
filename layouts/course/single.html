@@ -14,14 +14,13 @@
             <h2>{{ .Params.number }}{{ with .Params.child }}, {{ . }}{{ end }}</h2>
             {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
             
-            
             <ul style="--hextra-cards-grid-cols: 3;"class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose">
-                <li>Type:               {{ with .Params.required}} {{ . }}{{ end }}</li>
-                <li>Credits:            {{ with .Params.credits}} {{ . }}{{ end }}</li>
-                <li>Grade Level:        {{ with .Params.req_gradelevel}}{{ . }}{{ end }}</li>
-                <li>Duration:           {{ with .Params.length}} {{ . }}{{ end }}</li>
-                <li>Prerequisite(s):    {{ with .Params.req_prereq }} {{ . }}{{ end }}</li>
-                <li>Honors:             {{ with .Params.honors }} {{ . }}{{ end }}</li>
+                <li><b>Type:</b>               {{ with .Params.required}} {{ . }}{{ end }}</li>
+                <li><b>Credits:</b>            {{ with .Params.credits}} {{ . }}{{ end }}</li>
+                <li><b>Grade Level:</b>        {{ with .Params.req_gradelevel}}{{ delimit . ", " " and " }}{{ end }}</li>
+                <li><b>Duration:</b>           {{ with .Params.length}} {{ . }}{{ end }}</li>
+                <li><b>Prerequisite(s):</b>    {{ with .Params.req_prereq }} {{ . }}{{ end }}</li>
+                <li><b>Honors:</b>             {{ with .Params.honors }} {{ . }}{{ end }}</li>
             </ul>
             <ul>
                 {{ if eq .Params.repeatable true }}<li>*This course is repeatable.</li>{{ end }}
