@@ -17,7 +17,9 @@ where
 , grade_level AS (
 select distinct
     c1.number course_number
-    ,CONCAT('[',transcriptCourseNumberString,']') as grade_level
+    ,JSON_QUERY(CONCAT('[',REPLACE(LTRIM(REPLACE(transcriptCourseNumberString, '0', ' ')), ' ', '0'),']')) as grade_level
+    --This is complex, but formats the comma seperated string of grade levels into a JSON array.
+    --It replaces 0s with spaces to avoid the issue of the leading 0s being removed when converting to int, then replaces the spaces back to 0s after trimming the leading spaces, and finally wraps the whole thing in brackets to make it a valid JSON array.
 from CoursePrerequisite pr
     inner join course c1 on c1.courseid = pr.courseid
     inner join Calendar cal on cal.calendarID = c1.calendarID

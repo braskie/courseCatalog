@@ -7,7 +7,11 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -52,7 +56,11 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -82,7 +90,10 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -97,7 +108,10 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -112,7 +126,10 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -127,7 +144,10 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -142,7 +162,10 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -202,7 +225,11 @@
         "department": "Science",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -247,7 +274,11 @@
         "department": "Science",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -397,7 +428,11 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -412,7 +447,10 @@
         "department": "Science",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "AP Physics I",
         "duration": "",
         "requestable": true,
@@ -532,7 +570,10 @@
         "department": "Science",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -547,7 +588,11 @@
         "department": "Science",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -562,7 +607,10 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -622,7 +670,10 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -727,7 +778,11 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "7329ART",
         "duration": "",
         "requestable": true,
@@ -742,7 +797,11 @@
         "department": "Art",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "At least 1 level 3 course OR instructor consent",
         "duration": "",
         "requestable": true,
@@ -832,7 +891,10 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "Culinary Arts\/Pro Start I",
         "duration": "",
         "requestable": true,
@@ -1012,7 +1074,10 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "1.5",
-        "req_gradelevel": [11,12],
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "8428TED OR 8429TED",
         "duration": "",
         "requestable": true,
@@ -1072,7 +1137,10 @@
         "department": "Agriscience",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "8028AGR Food Science",
         "duration": "",
         "requestable": true,
@@ -1117,7 +1185,11 @@
         "department": "Agriscience",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -1237,7 +1309,11 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "7317ART",
         "duration": "",
         "requestable": true,
@@ -1252,7 +1328,11 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Ceramics II",
         "duration": "",
         "requestable": true,
@@ -1267,7 +1347,11 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "7321ART",
         "duration": "",
         "requestable": true,
@@ -1282,7 +1366,11 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Ceramics III",
         "duration": "",
         "requestable": true,
@@ -1312,7 +1400,11 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "7324ART",
         "duration": "",
         "requestable": true,
@@ -1327,7 +1419,11 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Drawing II",
         "duration": "",
         "requestable": true,
@@ -1342,7 +1438,11 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "7332ART",
         "duration": "",
         "requestable": true,
@@ -1357,7 +1457,11 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Drawing III",
         "duration": "",
         "requestable": true,
@@ -1402,7 +1506,11 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "7342ART",
         "duration": "",
         "requestable": true,
@@ -1462,7 +1570,10 @@
         "department": "Art",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "At least 1 level 3 course OR instructor consent",
         "duration": "",
         "requestable": true,
@@ -1477,7 +1588,10 @@
         "department": "Art",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "At least 1 level 3 art course OR instructor consent",
         "duration": "",
         "requestable": true,
@@ -1522,7 +1636,10 @@
         "department": "Business",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "1.0 Credit of Accounting I",
         "duration": "",
         "requestable": true,
@@ -1582,7 +1699,9 @@
         "department": "English",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11]",
+        "req_gradelevel": [
+            11
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -1597,7 +1716,10 @@
         "department": "English",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "1220ENG English 10 or 1378ENG AP Seminar",
         "duration": "",
         "requestable": true,
@@ -1612,7 +1734,10 @@
         "department": "English",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -1642,7 +1767,11 @@
         "department": "Computer and Information Science",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "3804CIS, 3805CIS",
         "duration": "",
         "requestable": true,
@@ -1672,7 +1801,11 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "9213FCE Foods II",
         "duration": "",
         "requestable": true,
@@ -1687,7 +1820,11 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "9213FCE Foods II – Introduction to Food Service",
         "duration": "",
         "requestable": true,
@@ -1702,7 +1839,10 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "9429FCE Medical Occupations I",
         "duration": "",
         "requestable": true,
@@ -1717,7 +1857,10 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "Medical Occupations I",
         "duration": "",
         "requestable": true,
@@ -1732,7 +1875,10 @@
         "department": "Social Studies",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -1747,7 +1893,10 @@
         "department": "Agriscience",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -1762,7 +1911,11 @@
         "department": "Agriscience",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -1792,7 +1945,11 @@
         "department": "Art",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "7351ART",
         "duration": "",
         "requestable": true,
@@ -1822,7 +1979,11 @@
         "department": "English",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -1837,7 +1998,11 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Alg II",
         "duration": "",
         "requestable": true,
@@ -1852,7 +2017,11 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Algebra II",
         "duration": "",
         "requestable": true,
@@ -1897,7 +2066,11 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Algebra II",
         "duration": "",
         "requestable": true,
@@ -2062,7 +2235,11 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Algebra II",
         "duration": "",
         "requestable": true,
@@ -2167,7 +2344,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "0.5",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2182,7 +2362,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2197,7 +2380,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2212,7 +2398,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2227,7 +2416,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2242,7 +2434,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2257,7 +2452,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2272,7 +2470,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2287,7 +2488,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2302,7 +2506,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2332,7 +2539,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2347,7 +2557,11 @@
         "department": "Agriscience",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2377,7 +2591,11 @@
         "department": "Agriscience",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2422,7 +2640,11 @@
         "department": "Business",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2512,7 +2734,11 @@
         "department": "Business",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2527,7 +2753,10 @@
         "department": "Family and Consumer Science",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2572,7 +2801,11 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2587,7 +2820,11 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Precalculus or AP Precalculus",
         "duration": "",
         "requestable": true,
@@ -2617,7 +2854,11 @@
         "department": "Music",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Music Theory",
         "duration": "",
         "requestable": true,
@@ -2632,7 +2873,9 @@
         "department": "Physical Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[09]",
+        "req_gradelevel": [
+            9
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2662,7 +2905,11 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[07,10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Auto Technology 1-4",
         "duration": "",
         "requestable": true,
@@ -2707,7 +2954,11 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2722,7 +2973,11 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -2767,7 +3022,11 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Hmong Lang Heritage Spkrs II\n",
         "duration": "",
         "requestable": true,
@@ -2782,7 +3041,11 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Hmong Lang Heritage Spkrs III\n",
         "duration": "",
         "requestable": true,
@@ -2842,7 +3105,10 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "Spanish III",
         "duration": "",
         "requestable": true,
@@ -2857,7 +3123,9 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[12]",
+        "req_gradelevel": [
+            12
+        ],
         "req_prereq": "Spanish IV",
         "duration": "",
         "requestable": true,
@@ -2902,7 +3170,10 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "French III",
         "duration": "",
         "requestable": true,
@@ -2932,7 +3203,9 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[12]",
+        "req_gradelevel": [
+            12
+        ],
         "req_prereq": "French IV",
         "duration": "",
         "requestable": true,
@@ -2977,7 +3250,11 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "German II",
         "duration": "",
         "requestable": true,
@@ -2992,7 +3269,10 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "German III",
         "duration": "",
         "requestable": true,
@@ -3007,7 +3287,9 @@
         "department": "World Languages",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[12]",
+        "req_gradelevel": [
+            12
+        ],
         "req_prereq": "German IV",
         "duration": "",
         "requestable": true,
@@ -3082,7 +3364,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -3112,7 +3397,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -3142,7 +3430,11 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Intro to Engineering Design",
         "duration": "",
         "requestable": true,
@@ -3157,7 +3449,10 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "Any Project Lead the Way Class",
         "duration": "",
         "requestable": true,
@@ -3262,7 +3557,11 @@
         "department": "Physical Education",
         "repeatable": true,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Foundations of P.E.",
         "duration": "",
         "requestable": true,
@@ -3277,7 +3576,11 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Geometry",
         "duration": "",
         "requestable": true,
@@ -3292,7 +3595,10 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "Geometry",
         "duration": "",
         "requestable": true,
@@ -3307,7 +3613,10 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "Geometry",
         "duration": "",
         "requestable": true,
@@ -3322,7 +3631,11 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Algebra II",
         "duration": "",
         "requestable": true,
@@ -3337,7 +3650,11 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Algebra II",
         "duration": "",
         "requestable": true,
@@ -3352,7 +3669,9 @@
         "department": "Social Studies",
         "repeatable": true,
         "credits": "0.5",
-        "req_gradelevel": "[12]",
+        "req_gradelevel": [
+            12
+        ],
         "req_prereq": "Introduction to Education and Teaching",
         "duration": "",
         "requestable": true,
@@ -3382,7 +3701,11 @@
         "department": "Technology and Engineering Education",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Intro to Engineering Design",
         "duration": "",
         "requestable": true,
@@ -3442,7 +3765,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "0.5",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -3457,7 +3783,11 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "AP Calculus AB",
         "duration": "",
         "requestable": true,
@@ -3472,7 +3802,11 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Calc AB",
         "duration": "",
         "requestable": true,
@@ -3487,7 +3821,11 @@
         "department": "Mathematics",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": "Pre-calc",
         "duration": "",
         "requestable": true,
@@ -3517,7 +3855,9 @@
         "department": "English",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10]",
+        "req_gradelevel": [
+            10
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -3532,7 +3872,9 @@
         "department": "English",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[09]",
+        "req_gradelevel": [
+            9
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -3547,7 +3889,10 @@
         "department": "English",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -3562,7 +3907,11 @@
         "department": "English",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -3577,7 +3926,10 @@
         "department": "English",
         "repeatable": false,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": "1378ENG, 1379ENG",
         "duration": "",
         "requestable": true,
@@ -3652,7 +4004,11 @@
         "department": "English",
         "repeatable": false,
         "credits": "0.5",
-        "req_gradelevel": "[10,11,12]",
+        "req_gradelevel": [
+            10,
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
@@ -3787,7 +4143,10 @@
         "department": "Youth Apprentice",
         "repeatable": true,
         "credits": "1.0",
-        "req_gradelevel": "[11,12]",
+        "req_gradelevel": [
+            11,
+            12
+        ],
         "req_prereq": null,
         "duration": "",
         "requestable": true,
