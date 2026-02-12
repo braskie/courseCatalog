@@ -2,6 +2,8 @@
 
 
 {{ $number := cond (.IsNamedParams) (.Get "number") (.Get 0) }}
+{{ $showNumber := cond (.IsNamedParams) (.Get "showNumber") (.Get 1) | default true -}}
+{{ $showName := cond (.IsNamedParams) (.Get "showName") (.Get 2) | default true -}}
 
 {{ $data := dict }}
 {{ $path := "data/courses.json" }}
@@ -17,5 +19,6 @@
 
 {{ range where $data "number" $number }}
 {{ $page := .Site.GetPage .Get $number }}
-    <a href="/{{ $number }}">{{ .number }}{{with .child }}, {{ . }}{{ end }} {{ .name }}</a><sup>📚</sup>
-{{ end }}
+    <a href="/{{ .number }}">
+      {{ if $showNumber }}{{ .number }}{{with .child }}, {{ . }}{{ end }} {{ end }}
+      {{ if $showName }}{{ .name }}{{ end }}</a><sup>📖</sup>{{ end }}
